@@ -154,8 +154,9 @@ footer p a:hover {
 
 .skills-img {
     width: 50px;
-    display: flex;
-    text-align: justify;
+    display: inline-flex;
+    text-align: center;
+
  }
 
 .footer-text {
