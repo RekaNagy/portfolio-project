@@ -28,6 +28,7 @@ h2 {
 p {
     font-size: 18px;
 }
+
 footer {
     text-align: center;
     background: var(--2nd-color);
@@ -113,18 +114,19 @@ footer p a:hover {
 
 @media (max-width:750px) {
  h1 {
-    font-size: 45px;
+    font-size: 35px;
  }
 
  h2 {
-    font-size: 30px;
+    font-size: 20px;
  }
 
  footer {
     padding: 30px;
  }
 
- footer p {
+ footer p,
+ footer p a {
     font-size: 15px;
  }
 
@@ -132,19 +134,28 @@ footer p a:hover {
     padding: 0px;
  }
 
+.logo {
+    margin: 0px;
+ }
+
 .hero {
     padding: 110px 50px 50px;
+}
+
+.hero-btn {
+    font-size: 18px;
+    padding: 10px 20px;
 }
 .skills {
     padding: 40px 40px;
 }
 
  .skills-img {
-    width: 100px;
+    width: 50px;
  }
 
  .footer-text {
-    font-size: 14px;
+    font-size: 12px;
  }
 
  .social-icon {
