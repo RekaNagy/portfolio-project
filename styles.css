@@ -132,6 +132,7 @@ footer p a:hover {
 
 .navbar {
     padding: 0px;
+    margin: 0px;
  }
 
 .logo {
@@ -140,7 +141,7 @@ footer p a:hover {
  }
 
 .hero {
-    padding: 110px 50px 50px 0px;
+    padding: 110px 50px 50px 50px;
 }
 
 .hero-btn {
