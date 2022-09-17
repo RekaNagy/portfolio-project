@@ -137,7 +137,7 @@ footer p a:hover {
 
 .logo {
     margin: 0px;
-    max-width: 100px;
+    max-width: 150px;
  }
 
 .hero {
@@ -155,7 +155,7 @@ footer p a:hover {
 .skills-img {
     width: 50px;
     display: flex;
-    text-align: center;
+    text-align: justify;
  }
 
 .footer-text {
