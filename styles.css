@@ -127,7 +127,7 @@ footer p a:hover {
 
  footer p,
  footer p a {
-    font-size: 15px;
+    font-size: 13px;
  }
 
 .navbar {
@@ -136,11 +136,11 @@ footer p a:hover {
 
 .logo {
     margin: 0px;
-    max-width: 50px;
+    max-width: 40px;
  }
 
 .hero {
-    padding: 110px 50px 50px;
+    padding: 110px 50px 50px 0px;
 }
 
 .hero-btn {
@@ -151,15 +151,16 @@ footer p a:hover {
     padding: 40px 40px;
 }
 
- .skills-img {
-    width: 30px;
+.skills-img {
+    width: 40px;
+    text-align: center;
  }
 
- .footer-text {
-    font-size: 12px;
+.footer-text {
+    font-size: 10px;
  }
 
- .social-icon {
+.social-icon {
     font-size: 30px;
  }
 }
