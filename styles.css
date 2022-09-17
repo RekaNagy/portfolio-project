@@ -1,0 +1,21 @@
+:root {
+    --default-font-family: 'Playfair Display', serif;
+    --1st-color: #5f6769;
+    --2nd-color:#dfcdc3;
+    --3rd-color: #719192;
+    --4th-color: #3c4245;
+    --nav-color:#eaeaea;
+}
+
+body {
+    font-family: var(--default-font-family);
+}
+
+.logo {
+    max-width: 100px;
+    margin: 10px;
+}
+
+.nav-link a:hover {
+    cursor: pointer;
+}
