@@ -87,6 +87,7 @@ footer p a:hover {
 
 .skills-img {
     max-width: 150px;
+    display: inline;
 }
 
 
