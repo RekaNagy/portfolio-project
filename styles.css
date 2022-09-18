@@ -67,7 +67,7 @@ footer p a:hover {
 }
 
 .hero-homepage {
-    padding: 250px 50px 125px;
+    padding: 250px 50px 200px;
     background: var(--4th-color);
     color: var(--2nd-color);
     text-align: center;
@@ -117,7 +117,7 @@ footer p a:hover {
 }
 
 .hero-about {
-    padding: 250px 50px 125px;
+    padding: 200px 50px 120px 50px;
     background: var(--4th-color);
     color: var(--2nd-color);
     text-align: center;
@@ -134,7 +134,7 @@ footer p a:hover {
 }
 
 .hero-contact {
-    padding: 240px 50px 240px 50px;
+    padding: 300px 50px 300px 50px;
     background: var(--4th-color);
     color: var(--2nd-color);
     text-align: center;
@@ -161,7 +161,7 @@ footer p a:hover {
 }
 
 .hero-portfolio {
-    padding: 150px 50px 150px;
+    padding: 150px 50px 150px 50px;
     background: var(--4th-color);
     color: var(--2nd-color);
     text-align: center;
@@ -252,30 +252,37 @@ footer p a:hover {
     margin: 10px;
  }
 
- .social-icons-contact {
-    font-size: 25px;
+.social-icons-contact {
+    font-size: 35px;
     margin: 10px;
  }
 
+.hero-about {
+    padding:100px 50px 100px; }
 
- .about-text {
+.about-text {
     font-size: 15px;
  }
 
- .email {
+.email {
     font-size: 15px;
  }
 
- .card-text {
+.card-text {
     font-size: 13px;
  }
 
- .hero-about p {
+.hero-about p {
     font-size: 13px;
  }
 
- .profile-img {
+.profile-img {
     max-width: 200px;
     margin-bottom: 30px;
  }
+
+.hero-portfolio {
+    padding: 100px 50px 50px 50px;
+}
+
 }
