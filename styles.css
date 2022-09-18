@@ -130,6 +130,7 @@ footer p a:hover {
 
 .profile-img {
     border: 2px solid var(--3rd-color);
+    max-width: 350px;
 }
 
 .hero-contact {
@@ -267,5 +268,14 @@ footer p a:hover {
 
  .card-text {
     font-size: 13px;
+ }
+
+ .hero-about p {
+    font-size: 13px;
+ }
+
+ .profile-img {
+    max-width: 200px;
+    margin-bottom: 30px;
  }
 }
