@@ -124,13 +124,12 @@ footer p a:hover {
 }
 
 .hero-about p {
-    font-size: 20px;
+    font-size: 30px;
+    text-align: center;
 }
+
 .profile-img {
-    max-width: 250px;
-    border-radius: 5px;
     border: 2px solid var(--3rd-color);
-    box-shadow: 2px 2px 2px solid var(--3rd-color);
 }
 
 .hero-contact {
@@ -257,9 +256,6 @@ footer p a:hover {
     margin: 10px;
  }
 
- .profile-img {
-    display: none;
- }
 
  .about-text {
     font-size: 15px;
